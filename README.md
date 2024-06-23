@@ -1,6 +1,7 @@
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Figma: https://www.figma.com/design/TvIwGkFuCaOHgDZPZNg50H/eFood?node-id=0-1&t=pZLjEthasat4wske-0
 
 ## Setup
 
